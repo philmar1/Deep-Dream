@@ -1,2 +1,2 @@
 # Deep Dreams and Adverserial Examples 
-School lab that aimed to make familiar with the Deep Dreams using Keras for Convolution Neural Networks
+School lab that aimed to make familiar with the Deep Dreams and Adversarial Examples using Keras for Convolution Neural Networks. The structure of the code was written by professor Alasdair Newson from Telecom ParisTech, students had to fill parts between BEGIN STUDENT CODE and END STUDENT CODE. This project was done during the time of the school lab session. 
